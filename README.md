@@ -5,15 +5,15 @@ This PowerBI dashboard for the hospitality domain provides a comprehensive view 
 
 ## 📸Screenshots
 DASHBOARD
-![App Screenshot](https://drive.google.com/uc?export=view&id=1fOZlyHnKwd7eo9EiPlVj8J9SHYo6P6kx)
+![App Screenshot](https://drive.google.com/uc?export=view&id=10W1xtikS7ocNbYrWoXPhwAg1Kht7P6My)
 
 
 INSIGHTS FOR WEEK 21
-![App Screenshot](https://drive.google.com/uc?export=view&id=1_xGn3gH155inLWOsgG41DPBzYFRhbgnU)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1nADWb8t9zO5j4jPeDx0fST_ShRq7BNS2)
 
 
 INSIGHTS FOR WEEK 21 OF MAY 23
-![App Screenshot](https://drive.google.com/uc?export=view&id=1rE_mFg1hXAKggYIYN0cCDtrn7TuMlWsa)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1KFJuMn0dkK3Smfi1tj9hkB0MbVvH2_dA)
 
 ## Benefits
 1) Quickly identify areas for improvement to maximize revenue and profits
